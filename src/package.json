@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "https://pkg.csb.dev/mui/material-ui/commit/f28a666e/@mui/icons-material",
+    "@mui/joy": "https://pkg.csb.dev/mui/material-ui/commit/f28a666e/@mui/joy",
+    "@mui/material": "https://pkg.csb.dev/mui/material-ui/commit/f28a666e/@mui/material",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.12.3/docs/data/joy/templates/framesx-web-blocks/App.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
